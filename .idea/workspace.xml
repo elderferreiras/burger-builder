@@ -2,23 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fc1117e-f853-4ffa-b4df-1f4397beec7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Order/CheckoutSummary/CheckoutSummary.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Order/CheckoutSummary/CheckoutSummary.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Order/Order.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Order/Order.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Checkout/Checkout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Orders/Orders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/Input.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/Input.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigation/NagivationItems/NavigationItem/NavigationItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/NagivationItems/NavigationItem/NavigationItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigation/NagivationItems/NavigationItems.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/NagivationItems/NavigationItems.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/Button/Button.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/Button/Button.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +35,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-routing" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -101,7 +90,11 @@
       <workItem from="1565532463923" duration="150000" />
       <workItem from="1565532614715" duration="16620000" />
       <workItem from="1565698237427" duration="6316000" />
-      <workItem from="1565812442476" duration="9855000" />
+      <workItem from="1565812442476" duration="10195000" />
+      <workItem from="1565824170342" duration="587000" />
+      <workItem from="1565832815404" duration="370000" />
+      <workItem from="1565841166579" duration="22000" />
+      <workItem from="1565959788695" duration="6591000" />
     </task>
     <servers />
   </component>
