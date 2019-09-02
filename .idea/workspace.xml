@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fc1117e-f853-4ffa-b4df-1f4397beec7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/Input.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/Input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/Button/Button.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/Button/Button.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Button/Button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Checkout/Checkout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Checkout/Checkout.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -43,16 +46,16 @@
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Navigation/SideDrawer/DrawerToggle" />
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/store" />
       <recent name="$PROJECT_DIR$/src/containers/Orders" />
       <recent name="$PROJECT_DIR$/src/hoc/Aux" />
       <recent name="$PROJECT_DIR$/src/hoc" />
       <recent name="$PROJECT_DIR$/src/components/Navigation/NagivationItems" />
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/components/Navigation/SideDrawer/DrawerToggle" />
-      <recent name="$PROJECT_DIR$/src/assets/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -94,7 +97,10 @@
       <workItem from="1565824170342" duration="587000" />
       <workItem from="1565832815404" duration="370000" />
       <workItem from="1565841166579" duration="22000" />
-      <workItem from="1565959788695" duration="6591000" />
+      <workItem from="1565959788695" duration="7978000" />
+      <workItem from="1567083831202" duration="7000" />
+      <workItem from="1567265595877" duration="402000" />
+      <workItem from="1567434371081" duration="4027000" />
     </task>
     <servers />
   </component>
