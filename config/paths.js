@@ -52,7 +52,7 @@ const moduleFileExtensions = [
   'jsx',
 ];
 
-// Resolve file paths in the same order as webpack
+// Resolve file paths in the same reducers as webpack
 const resolveModule = (resolveFn, filePath) => {
   const extension = moduleFileExtensions.find(extension =>
     fs.existsSync(resolveFn(`${filePath}.${extension}`))
