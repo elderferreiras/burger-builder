@@ -1,4 +1,4 @@
-import BurgerBuilder from "./BurgerBuilder";
+import { BurgerBuilder }from "./BurgerBuilder";
 import BuildControls from "../../components/Burger/BuildControls/BuildControls";
 import React from 'react';
 import {configure, shallow} from 'enzyme';
@@ -12,8 +12,6 @@ describe('<BurgerBuilder/>', () => {
     beforeEach(() => {
         wrapper = shallow(<BurgerBuilder onInitIngredients={() => {}} />);
     });
-
-    console.log(wrapper);
 
     it('should render <BuildControls/> when receiving ingredients', () => {
         wrapper.setProps({ings: {salad: 0}});
